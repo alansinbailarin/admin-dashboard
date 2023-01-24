@@ -11,7 +11,7 @@
       <div class="mb-7 space-y-8"><ToggleDark /></div>
     </div>
     <div
-      class="w-72 border-r dark:bg-gray-900 bg-white border-gray-200 dark:border-gray-800"
+      class="w-80 border-r dark:bg-gray-900 bg-white border-gray-200 dark:border-gray-800"
     >
       <Messages />
     </div>
